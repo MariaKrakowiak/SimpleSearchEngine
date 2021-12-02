@@ -1,6 +1,6 @@
 # SimpleSearchEngine
 
-# Description
+## Description
 Improve your search engine to support complex queries containing a sequence of words and a strategy that determines how to match data.
 
 Take, for example, these six sample lines:
